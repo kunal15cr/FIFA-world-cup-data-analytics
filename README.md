@@ -39,4 +39,29 @@ To get started, clone this repository and install the necessary Python packages.
 
 ### Clone the Repository
 
-```bash
+
+Data Analysis
+Exploratory Data Analysis (EDA)
+Data Loading and Overview: Load datasets and check for missing values, duplicates, and data types.
+Match Statistics: Analyze total goals scored, average goals per match, and total attendance.
+Team Performance Insights: Visualize the number of titles won, runner-up positions, and third-place finishes.
+Team Performance Insights
+Winners and Runners-Up: Pie charts showing the number of times each country has won the World Cup, and bar charts for runner-up and third-place positions.
+Yearly Participation: Heatmaps illustrating which teams participated in each World Cup year.
+Substitution Impact Analysis
+Substitution Effectiveness: Determine whether substitutions lead to goals or improved performance.
+Substitute Player Performance: Analyze the impact of substitute players on match outcomes.
+Expected vs. Actual Performance
+Goals Analysis: Compare the expected goals (xG) to actual goals scored by teams in recent World Cups.
+Performance Deviations: Highlight teams that performed better or worse than expected.
+Conclusions
+Title Winners: Brazil has won the most titles, followed by Italy and Argentina.
+Runner-Up Insights: Argentina, Netherlands, and West Germany have the most runner-up positions.
+Performance Analysis: Teams like Russia and Netherlands exceeded expectations in recent tournaments, while Brazil underperformed.
+Future Work
+Expanded Analysis: Incorporate more recent data and additional metrics like player statistics and tactical analysis.
+Interactive Dashboards: Develop interactive dashboards for a more dynamic exploration of the data.
+Acknowledgements
+Special thanks to the creators of the datasets and the open-source community for their contributions. This project uses data from publicly available sources and visualizations powered by Plotly and Seaborn.
+
+
